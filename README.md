@@ -58,14 +58,13 @@
 
 <!-- Cards are auto-generated daily by GitHub Actions inside this repo — no rate limits, always loads -->
 <div align="center">
-  <img src="./profile-summary-card-response/0-profile-details.svg" alt="Profile details" height="170" />
-  <img src="./profile-summary-card-response/3-stats.svg" alt="GitHub stats" height="170" />
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" height="170" />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" height="170" />
   <br/>
-  <img src="./profile-summary-card-response/1-repos-per-language.svg" alt="Repos per language" height="170" />
-  <img src="./profile-summary-card-response/2-most-commit-language.svg" alt="Most committed languages" height="170" />
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" height="170" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most committed languages" height="170" />
   <br/>
-  <img src="./profile-summary-card-response/4-productive-time.svg" alt="Productive time" height="170" />
-  <img src="./profile-summary-card-response/5-top-repos.svg" alt="Top repos" height="170" />
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" height="170" />
 </div>
 
 <div align="center">

@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Hi%2C%20I'm%20Mukesh%20%F0%9F%91%8B&fontSize=44&fontColor=fff&animation=fadeIn&desc=AI%20%26%20Full-Stack%20Developer%20%C2%B7%20NIT%20Calicut&descSize=18&descAlignY=68" width="100%" />
+<img src="./assets/banner.svg" width="100%" alt="Hi, I'm Mukesh — AI &amp; Full-Stack Developer, NIT Calicut" />
 
 <h2 align="center">🚀 About Me</h2>
 
@@ -76,4 +76,4 @@
   <img src="https://img.shields.io/badge/Follow%20Me-%20on%20GitHub-181717?style=flat-square&logo=github" alt="Follow" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+<img src="./assets/footer.svg" width="100%" alt="" />

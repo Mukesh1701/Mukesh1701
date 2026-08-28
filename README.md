@@ -56,19 +56,20 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
+<!-- Cards are auto-generated daily by GitHub Actions inside this repo — no rate limits, always loads -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mukesh1701&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukesh1701&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top languages" />
+  <img src="./profile-summary-card-response/0-profile-details.svg" alt="Profile details" height="170" />
+  <img src="./profile-summary-card-response/3-stats.svg" alt="GitHub stats" height="170" />
   <br/>
+  <img src="./profile-summary-card-response/1-repos-per-language.svg" alt="Repos per language" height="170" />
+  <img src="./profile-summary-card-response/2-most-commit-language.svg" alt="Most committed languages" height="170" />
+  <br/>
+  <img src="./profile-summary-card-response/4-productive-time.svg" alt="Productive time" height="170" />
+  <img src="./profile-summary-card-response/5-top-repos.svg" alt="Top repos" height="170" />
+</div>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=Mukesh1701&theme=tokyonight&hide_border=true&background=0D1117" height="165" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mukesh1701&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="100%" alt="Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukesh1701&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="100%" alt="Contribution graph" />
 </div>
 
 <div align="center">
